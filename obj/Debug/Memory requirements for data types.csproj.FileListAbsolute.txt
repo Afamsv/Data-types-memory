@@ -1,0 +1,8 @@
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\bin\Debug\Memory requirements for data types.exe.config
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\bin\Debug\Memory requirements for data types.exe
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\bin\Debug\Memory requirements for data types.pdb
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\obj\Debug\Memory requirements for data types.csproj.AssemblyReference.cache
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\obj\Debug\Memory requirements for data types.csproj.SuggestedBindingRedirects.cache
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\obj\Debug\Memory requirements for data types.csproj.CoreCompileInputs.cache
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\obj\Debug\Memory requirements for data types.exe
+C:\Users\Afams\Source\Repos\Memory requirements for data types\Memory requirements for data types\obj\Debug\Memory requirements for data types.pdb
